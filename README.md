@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyank Khairwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m Worked on as a UI Designer [https://upskillcart.com/](https://upskillcart.com/)
+
 - 🌱 I’m currently learning **Java Full Stack Developer**
+
+- 📫 How to reach me **priyankhairwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
